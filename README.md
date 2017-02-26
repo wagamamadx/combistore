@@ -1,2 +1,2 @@
 # combistore
-Tienda online
+Tienda online peruana
